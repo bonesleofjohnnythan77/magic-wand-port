@@ -1,0 +1,60 @@
+ALIGNED8 u8 jrb_1__texture_0E00A650[] = {
+#include "levels/jrb/jrb_1_0xe00a650_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E009E50[] = {
+#include "levels/jrb/jrb_1_0xe009e50_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E008E50[] = {
+#include "levels/jrb/jrb_1_0xe008e50_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E002010[] = {
+#include "levels/jrb/jrb_1_0xe002010_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E000810[] = {
+#include "levels/jrb/jrb_1_0xe000810_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E004810[] = {
+#include "levels/jrb/jrb_1_0xe004810_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E008650[] = {
+#include "levels/jrb/jrb_1_0xe008650_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E004010[] = {
+#include "levels/jrb/jrb_1_0xe004010_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E003810[] = {
+#include "levels/jrb/jrb_1_0xe003810_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E006810[] = {
+#include "levels/jrb/jrb_1_0xe006810_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_09009800[] = {
+#include "levels/jrb/jrb_1_0x9009800_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E007730[] = {
+#include "levels/jrb/jrb_1_0xe007730_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E001010[] = {
+#include "levels/jrb/jrb_1_0xe001010_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E001810[] = {
+#include "levels/jrb/jrb_1_0xe001810_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E009650[] = {
+#include "levels/jrb/jrb_1_0xe009650_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E005810[] = {
+#include "levels/jrb/jrb_1_0xe005810_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E003010[] = {
+#include "levels/jrb/jrb_1_0xe003010_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E005010[] = {
+#include "levels/jrb/jrb_1_0xe005010_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E000010[] = {
+#include "levels/jrb/jrb_1_0xe000010_custom.rgba16.inc.c"
+};
+ALIGNED8 u8 jrb_1__texture_0E002810[] = {
+#include "levels/jrb/jrb_1_0xe002810_custom.rgba16.inc.c"
+};

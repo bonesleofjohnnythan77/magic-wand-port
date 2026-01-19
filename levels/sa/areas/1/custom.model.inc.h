@@ -1,0 +1,54 @@
+#ifndef SA_1_HEADER_H
+#define SA_1_HEADER_H
+#include "types.h"
+extern Vtx VB_sa_1_0x7000018[];
+extern Vtx VB_sa_1_0x70000d8[];
+extern Vtx VB_sa_1_0x70001c8[];
+extern Vtx VB_sa_1_0x70002c8[];
+extern Vtx VB_sa_1_0x70003c8[];
+extern Vtx VB_sa_1_0x70004b8[];
+extern Vtx VB_sa_1_0x70005b8[];
+extern Vtx VB_sa_1_0x7000698[];
+extern Vtx VB_sa_1_0x7000798[];
+extern Vtx VB_sa_1_0x7000898[];
+extern Vtx VB_sa_1_0x7000998[];
+extern Vtx VB_sa_1_0x7000a88[];
+extern Vtx VB_sa_1_0x7000b68[];
+extern Vtx VB_sa_1_0x7000c58[];
+extern Vtx VB_sa_1_0x7000d58[];
+extern Vtx VB_sa_1_0x7000e48[];
+extern Vtx VB_sa_1_0x7000f48[];
+extern Vtx VB_sa_1_0x7001048[];
+extern Vtx VB_sa_1_0x7001128[];
+extern Vtx VB_sa_1_0x7001218[];
+extern Vtx VB_sa_1_0x7001308[];
+extern Vtx VB_sa_1_0x70013e8[];
+extern Vtx VB_sa_1_0x70014c8[];
+extern Vtx VB_sa_1_0x70015b8[];
+extern Vtx VB_sa_1_0x70016b8[];
+extern Vtx VB_sa_1_0x70017b8[];
+extern Vtx VB_sa_1_0x70018a8[];
+extern Vtx VB_sa_1_0x70019a8[];
+extern Vtx VB_sa_1_0x7001aa8[];
+extern Vtx VB_sa_1_0x7001b98[];
+extern Vtx VB_sa_1_0x7001c78[];
+extern Vtx VB_sa_1_0x7001d78[];
+extern Vtx VB_sa_1_0x7001e78[];
+extern Vtx VB_sa_1_0x7001f78[];
+extern Vtx VB_sa_1_0x7002078[];
+extern Vtx VB_sa_1_0x7002168[];
+extern Vtx VB_sa_1_0x7002268[];
+extern Vtx VB_sa_1_0x7002368[];
+extern Vtx VB_sa_1_0x7002e80[];
+extern u8 sa_1__texture_0900B000[];
+extern u8 sa_1__texture_09003000[];
+extern u8 sa_1__texture_09007000[];
+extern Light_t Light_sa_1_0x7000008;
+extern Ambient_t Light_sa_1_0x7000000;
+extern Gfx DL_sa_1_0x7002de8[];
+extern Gfx DL_sa_1_0x70023e8[];
+extern Gfx DL_sa_1_0x7002470[];
+extern Gfx DL_sa_1_0x70028f0[];
+extern Gfx DL_sa_1_0x7002fd0[];
+extern Gfx DL_sa_1_0x7002f80[];
+#endif

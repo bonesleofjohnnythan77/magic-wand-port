@@ -1,0 +1,14 @@
+extern const GeoLayout purple_star_geo[];
+extern u8 purple_star_star_ci8[];
+extern u8 purple_star_star_pal_rgba16[];
+extern u8 purple_star_stareye_ci8[];
+extern u8 purple_star_stareye_pal_rgba16[];
+extern Vtx purple_star_000_displaylist_mesh_layer_1_vtx_0[32];
+extern Gfx purple_star_000_displaylist_mesh_layer_1_tri_0[];
+extern Vtx purple_star_000_displaylist_mesh_layer_1_vtx_1[50];
+extern Gfx purple_star_000_displaylist_mesh_layer_1_tri_1[];
+extern Gfx mat_purple_star_star[];
+extern Gfx mat_revert_purple_star_star[];
+extern Gfx mat_purple_star_stareye[];
+extern Gfx mat_revert_purple_star_stareye[];
+extern Gfx purple_star_000_displaylist_mesh_layer_1[];

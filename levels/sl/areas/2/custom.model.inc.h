@@ -1,0 +1,55 @@
+#ifndef SL_2_HEADER_H
+#define SL_2_HEADER_H
+#include "types.h"
+extern Vtx VB_sl_2_0x700a9e0[];
+extern Vtx VB_sl_2_0x700aae0[];
+extern Vtx VB_sl_2_0x700abe0[];
+extern Vtx VB_sl_2_0x700acc0[];
+extern Vtx VB_sl_2_0x700adb0[];
+extern Vtx VB_sl_2_0x700aea0[];
+extern Vtx VB_sl_2_0x700afa0[];
+extern Vtx VB_sl_2_0x700b080[];
+extern Vtx VB_sl_2_0x700b170[];
+extern Vtx VB_sl_2_0x700b250[];
+extern Vtx VB_sl_2_0x700b330[];
+extern Vtx VB_sl_2_0x700b420[];
+extern Vtx VB_sl_2_0x700b510[];
+extern Vtx VB_sl_2_0x700b5d0[];
+extern Vtx VB_sl_2_0x700b620[];
+extern Vtx VB_sl_2_0x700bb80[];
+extern Vtx VB_sl_2_0x700bd80[];
+extern Vtx VB_sl_2_0x700be70[];
+extern Vtx VB_sl_2_0x700bf60[];
+extern Vtx VB_sl_2_0x700c050[];
+extern Vtx VB_sl_2_0x700c140[];
+extern Vtx VB_sl_2_0x700c230[];
+extern Vtx VB_sl_2_0x700c320[];
+extern Vtx VB_sl_2_0x700c410[];
+extern Vtx VB_sl_2_0x700c500[];
+extern Vtx VB_sl_2_0x700c5f0[];
+extern Vtx VB_sl_2_0x700c6e0[];
+extern Vtx VB_sl_2_0x700ca80[];
+extern u8 sl_2__texture_09008800[];
+extern u8 sl_2__texture_09001000[];
+extern Light_t Light_sl_2_0x700a9b8;
+extern Light_t Light_sl_2_0x700a9d0;
+extern Ambient_t Light_sl_2_0x700a9b0;
+extern Ambient_t Light_sl_2_0x700a9c8;
+extern Gfx DL_sl_2_0x700bae8[];
+extern Gfx DL_sl_2_0x700b6c0[];
+extern Gfx DL_sl_2_0x700ba70[];
+extern u8 sl_2__texture_09008000[];
+extern Light_t Light_sl_2_0x700bb70;
+extern Ambient_t Light_sl_2_0x700bb68;
+extern Gfx DL_sl_2_0x700bcf8[];
+extern Gfx DL_sl_2_0x700bc80[];
+extern u8 sl_2__texture_09000800[];
+extern Light_t Light_sl_2_0x700bd70;
+extern Ambient_t Light_sl_2_0x700bd68;
+extern Gfx DL_sl_2_0x700c9e8[];
+extern Gfx DL_sl_2_0x700c720[];
+extern Light_t Light_sl_2_0x700ca70;
+extern Ambient_t Light_sl_2_0x700ca68;
+extern Gfx DL_sl_2_0x700cb58[];
+extern Gfx DL_sl_2_0x700cb00[];
+#endif

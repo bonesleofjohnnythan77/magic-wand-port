@@ -1,0 +1,7 @@
+   MIO0_SEG(SkyboxCustom19627712_skybox, 0x0A000000)
+   MIO0_SEG(SkyboxCustom22380224_skybox, 0x0A000000)
+   MIO0_SEG(SkyboxCustom24215232_skybox, 0x0A000000)
+   MIO0_SEG(SkyboxCustom26967744_skybox, 0x0A000000)
+   MIO0_SEG(SkyboxCustom30637760_skybox, 0x0A000000)
+   MIO0_SEG(SkyboxCustom31555264_skybox, 0x0A000000)
+   MIO0_SEG(SkyboxCustom43482816_skybox, 0x0A000000)
