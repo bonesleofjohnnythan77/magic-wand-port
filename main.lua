@@ -1,5 +1,5 @@
--- name: Mario and the Magic Wand
--- description: 
+-- name: \\#D45A4A\\Mario \\#4274F0\\and the \\#4274F0\\Magic \\#D45A4A\\Wand
+-- description: Mario and the Magic Wand is a romhack released in 2013 by Kaze Emanuar, the only version released was a demo as the hack unforunately never got finished. There's 30 stars total across 5 levels, though only 15 are required to beat the game. Plenty of custom objects appear in this hack, too.\n\nPorted by B. Bones Johnson
 -- incompatible: romhack
 
 gLevelValues.entryLevel = LEVEL_CASTLE_GROUNDS
@@ -61,6 +61,9 @@ smlua_audio_utils_replace_sequence(0x31, 0x11, 75, 'seq_31')
 smlua_audio_utils_replace_sequence(0x32, 0x11, 75, 'seq_32')
 smlua_audio_utils_replace_sequence(0x33, 0x11, 75, 'seq_33')
 smlua_audio_utils_replace_sequence(0x34, 0x11, 75, 'seq_34')
+smlua_audio_utils_replace_sequence(0x35, 0x25, 75, 'seq_35')
+smlua_audio_utils_replace_sequence(0x36, 0x11, 75, 'seq_36')
+smlua_audio_utils_replace_sequence(0x37, 0x0B, 75, 'seq_37')
 
 vec3f_set(gLevelValues.starPositions.KoopaBobStarPos, 2787, 5000, 1814)
 vec3f_set(gLevelValues.starPositions.KoopaThiStarPos, 7100, -1300, -6000)

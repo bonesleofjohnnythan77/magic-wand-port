@@ -12,7 +12,7 @@ function object_drop_to_floor(obj)
     obj.oMoveFlags = (obj.oMoveFlags | OBJ_MOVE_ON_GROUND)
 end
 
--- Custom Behaviors --
+-- Custom Behaviors (most of them are taken care of in behavior_data.c) --
 
 --Monkey that dies
 
@@ -83,6 +83,8 @@ local function bhv_custom_bowser_loop(o)
     end
 end
 
+--Self Explanatory
+
 --- @param o Object
 function skipviewcheck(o)
 
@@ -90,14 +92,17 @@ function skipviewcheck(o)
 
 end
 
-function tellmeaction(o)
+--debug thing, don't mind it
+
+--[[function tellmeaction(o)
 
     djui_chat_message_create("action: "..tostring(o.oAction))
     djui_chat_message_create("timer: "..tostring(o.oTimer))
 
 end
+]]--
 
-
+--Star that runs away from you in the sky
 
 function bhv_koopa_update_custom(o)
 

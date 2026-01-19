@@ -20,3 +20,5 @@ gLevelValues.metalCapDurationCotmc = 600
 gLevelValues.wingCapDurationTotwc = 1800
 gLevelValues.vanishCapDurationVcutm = 600
 gBehaviorValues.GrateStarRequirement = 15
+gLevelValues.vanishCapSequence = 0x36
+gLevelValues.wingCapSequence = 0x37
